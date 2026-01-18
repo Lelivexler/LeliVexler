@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Leli
 
-<!--
-**Lelivexler/LeliVexler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer in training  
+Passionate about building clean and user-friendly web interfaces.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
+- HTML, CSS, JavaScript
+- React
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🛒 Amazon Store – E-commerce frontend project
+- 🎮 Rock Paper Scissors Game
+- 📺 My YouTube Website
+- 💻 Final C Project
+
+## 🌱 Currently learning
+- React advanced concepts
+- Component-based architecture
+- Clean code & best practices
