@@ -1,11 +1,14 @@
 # Hi 👋 I'm Leli
 
-Frontend Developer in training  
+Frontend/Fullstuck Developer in training  
 Passionate about building clean and user-friendly web interfaces.
 
 ## 🛠️ Technologies
 - HTML, CSS, JavaScript
 - React
+- java
+- python
+- sql
 - Git & GitHub
 
 ## 📂 Projects
@@ -18,3 +21,4 @@ Passionate about building clean and user-friendly web interfaces.
 - React advanced concepts
 - Component-based architecture
 - Clean code & best practices
+- leetcode solving
